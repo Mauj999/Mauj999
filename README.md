@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mauj999
 - 👀 I’m interested in code
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 🌱 I’m currently learning Python
 
 <!---
 Mauj999/Mauj999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
